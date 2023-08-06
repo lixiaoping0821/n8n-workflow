@@ -1,0 +1,10 @@
+server:
+  host: 127.0.0.1
+  port: 9090
+
+n8n:
+  host: 127.0.0.1
+  port: 5678
+  version: 1.0
+  apikey: your apikey
+  webHook : webhook-test
